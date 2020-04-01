@@ -1,0 +1,10 @@
+E:\Practicals\c#\ui\project2\Kitchen_Interface\Kitchen_Interface\bin\Debug\Kitchen_Interface.exe.config
+E:\Practicals\c#\ui\project2\Kitchen_Interface\Kitchen_Interface\bin\Debug\Kitchen_Interface.exe
+E:\Practicals\c#\ui\project2\Kitchen_Interface\Kitchen_Interface\bin\Debug\Kitchen_Interface.pdb
+E:\Practicals\c#\ui\project2\Kitchen_Interface\Kitchen_Interface\bin\Debug\Bunifu_UI_v1.52.dll
+E:\Practicals\c#\ui\project2\Kitchen_Interface\Kitchen_Interface\obj\Debug\Kitchen_Interface.csprojResolveAssemblyReference.cache
+E:\Practicals\c#\ui\project2\Kitchen_Interface\Kitchen_Interface\obj\Debug\Kitchen_Interface.Form1.resources
+E:\Practicals\c#\ui\project2\Kitchen_Interface\Kitchen_Interface\obj\Debug\Kitchen_Interface.Properties.Resources.resources
+E:\Practicals\c#\ui\project2\Kitchen_Interface\Kitchen_Interface\obj\Debug\Kitchen_Interface.csproj.GenerateResource.Cache
+E:\Practicals\c#\ui\project2\Kitchen_Interface\Kitchen_Interface\obj\Debug\Kitchen_Interface.exe
+E:\Practicals\c#\ui\project2\Kitchen_Interface\Kitchen_Interface\obj\Debug\Kitchen_Interface.pdb
